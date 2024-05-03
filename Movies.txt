@@ -2,7 +2,12 @@ list of horror movies
 
 conjuring 
 annabella
+<<<<<<< HEAD
 hexsaw
 chainsaw
 nun
 
+=======
+joining a org
+working in a team
+>>>>>>> featureone
