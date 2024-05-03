@@ -3,3 +3,5 @@ list of horror movies
 conjuring 
 annabella
 hexsaw
+chainsaw
+nun
